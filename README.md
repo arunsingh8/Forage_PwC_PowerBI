@@ -10,6 +10,8 @@ This is a Pwc's Virtual Internship that provides hands-on tasks solved by Power 
 2. Create a dashboard for the retention manager reflecting the KPIs
 3. Write a short email to the engagement partner explaining your findings, and include suggestions as to what needs to be changed
 
+![Screenshot 2024-04-08 143209](https://github.com/arunsingh8/Forage_PwC_PowerBI/assets/112901373/f66165d3-ccc7-45b0-9550-b7ffee48e586)
+
 # Task 4: Diversity & Inclusion (Gender balance in the executive suite)
 1. Define relevant KPIs in hiring, promotion, performance and turnover, and create a visualisation
 2. Write what you think some root causes of their slow progress might be
