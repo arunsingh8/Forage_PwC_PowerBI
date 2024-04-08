@@ -5,6 +5,8 @@ This is a Pwc's Virtual Internship that provides hands-on tasks solved by Power 
 # Task 2: Call Centre Trends (Visualising customer and agent behaviour)
 1. Create a dashboard in Power BI that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset.
 
+![Screenshot 2024-04-08 150924](https://github.com/arunsingh8/Forage_PwC_PowerBI/assets/112901373/ecad3707-0735-4511-ad3d-4ea276b39b8f)
+
 # Live Dashboard
 https://www.novypro.com/project/call-center-analysis-35
 
