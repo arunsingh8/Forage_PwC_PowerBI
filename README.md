@@ -5,6 +5,9 @@ This is a Pwc's Virtual Internship that provides hands-on tasks solved by Power 
 # Task 2: Call Centre Trends (Visualising customer and agent behaviour)
 1. Create a dashboard in Power BI that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset.
 
+# Live Dashboard
+https://www.novypro.com/project/call-center-analysis-35
+
 # Task 3: Customer Retention (Customer demographics and insights)
 1. Define proper KPIs
 2. Create a dashboard for the retention manager reflecting the KPIs
@@ -12,13 +15,15 @@ This is a Pwc's Virtual Internship that provides hands-on tasks solved by Power 
 
 ![Screenshot 2024-04-08 143209](https://github.com/arunsingh8/Forage_PwC_PowerBI/assets/112901373/f66165d3-ccc7-45b0-9550-b7ffee48e586)
 
+# Live Dashboard
+https://www.novypro.com/project/dashboard-for-the-retention-manager
+
 # Task 4: Diversity & Inclusion (Gender balance in the executive suite)
 1. Define relevant KPIs in hiring, promotion, performance and turnover, and create a visualisation
 2. Write what you think some root causes of their slow progress might be
 
 ![Screenshot 2024-04-08 133104](https://github.com/arunsingh8/Forage_PwC_PowerBI/assets/112901373/e9d09551-d972-4e6b-bf3f-ac89eef6a742)
 
-# Live Dashboard on this 
-
-https://www.novypro.com/profile_projects/arunpratapsingh
+# Live Dashboard
+https://www.novypro.com/project/employee-diversity-and-inclusion-analysis
 
