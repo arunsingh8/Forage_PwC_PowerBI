@@ -12,7 +12,9 @@ This is a Pwc's Virtual Internship that provides hands-on tasks solved by Power 
 
 # Task 4: Diversity & Inclusion (Gender balance in the executive suite)
 1. Define relevant KPIs in hiring, promotion, performance and turnover, and create a visualisation
-2. Write what you think some root causes of their slow progress might be 
+2. Write what you think some root causes of their slow progress might be
+
+![Screenshot 2024-04-08 133104](https://github.com/arunsingh8/Forage_PwC_PowerBI/assets/112901373/e9d09551-d972-4e6b-bf3f-ac89eef6a742)
 
 # Live Dashboard on this 
 
