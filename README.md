@@ -14,7 +14,7 @@ This is a Pwc's Virtual Internship that provides hands-on tasks solved by Power 
 1. Define relevant KPIs in hiring, promotion, performance and turnover, and create a visualisation
 2. Write what you think some root causes of their slow progress might be 
 
-# Check Out on this 
+# Live Dashboard on this 
 
 https://www.novypro.com/profile_projects/arunpratapsingh
 
