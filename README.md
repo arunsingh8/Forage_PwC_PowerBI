@@ -7,8 +7,7 @@ This is a Pwc's Virtual Internship that provides hands-on tasks solved by Power 
 
 ![Screenshot 2024-04-08 150924](https://github.com/arunsingh8/Forage_PwC_PowerBI/assets/112901373/ecad3707-0735-4511-ad3d-4ea276b39b8f)
 
-# Live Dashboard
-https://www.novypro.com/project/call-center-analysis-35
+# Live Dashboard :  https://www.novypro.com/project/call-center-analysis-35
 
 # Task 3: Customer Retention (Customer demographics and insights)
 1. Define proper KPIs
@@ -17,8 +16,7 @@ https://www.novypro.com/project/call-center-analysis-35
 
 ![Screenshot 2024-04-08 143209](https://github.com/arunsingh8/Forage_PwC_PowerBI/assets/112901373/f66165d3-ccc7-45b0-9550-b7ffee48e586)
 
-# Live Dashboard
-https://www.novypro.com/project/dashboard-for-the-retention-manager
+# Live Dashboard :  https://www.novypro.com/project/dashboard-for-the-retention-manager
 
 # Task 4: Diversity & Inclusion (Gender balance in the executive suite)
 1. Define relevant KPIs in hiring, promotion, performance and turnover, and create a visualisation
@@ -26,6 +24,5 @@ https://www.novypro.com/project/dashboard-for-the-retention-manager
 
 ![Screenshot 2024-04-08 133104](https://github.com/arunsingh8/Forage_PwC_PowerBI/assets/112901373/e9d09551-d972-4e6b-bf3f-ac89eef6a742)
 
-# Live Dashboard
-https://www.novypro.com/project/employee-diversity-and-inclusion-analysis
+# Live Dashboard :  https://www.novypro.com/project/employee-diversity-and-inclusion-analysis
 
